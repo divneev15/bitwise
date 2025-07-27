@@ -57,7 +57,7 @@ number = number & ~(1 << position);
 
 ---
 
-### 🔁 **Program Flow**
+### 🔁 **Algorithum**
 
 **Part 1: Basic Bitwise Operations**
 
