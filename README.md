@@ -30,14 +30,14 @@ Bitwise operators work on the **binary (bit-level)** representation of integers.
 
 #### 🔹 **Common Bitwise Operators**
 
-| Operator    | Symbol | Description               | Example (`a = 5`, `b = 3`) |     |         |
-| ----------- | ------ | ------------------------- | -------------------------- | --- | ------- |
-| AND         | `&`    | 1 if both bits are 1      | `5 & 3 = 1`                |     |         |
-| OR          | \`     | \`                        | 1 if either bit is 1       | \`5 | 3 = 7\` |
-| XOR         | `^`    | 1 if only one bit is 1    | `5 ^ 3 = 6`                |     |         |
-| NOT         | `~`    | Flips all bits            | `~5 = -6`                  |     |         |
-| Left Shift  | `<<`   | Multiplies by 2 per shift | `5 << 1 = 10`              |     |         |
-| Right Shift | `>>`   | Divides by 2 per shift    | `5 >> 1 = 2`               |     |         |
+| Operator    | Symbol | Description               | Example (`a = 5`, `b = 3`) |             
+| ----------- | ------ | ------------------------- | -------------------------- | 
+| AND         | `&`    | 1 if both bits are 1      | `5 & 3 = 1`                |             
+| OR          | \`     | \`                        | 1 if either bit is 1       | 
+| XOR         | `^`    | 1 if only one bit is 1    | `5 ^ 3 = 6`                |    
+| NOT         | `~`    | Flips all bits            | `~5 = -6`                  |             
+| Left Shift  | `<<`   | Multiplies by 2 per shift | `5 << 1 = 10`              |              
+| Right Shift | `>>`   | Divides by 2 per shift    | `5 >> 1 = 2`               |              
 
 #### 🔹 **Setting a Bit**
 
